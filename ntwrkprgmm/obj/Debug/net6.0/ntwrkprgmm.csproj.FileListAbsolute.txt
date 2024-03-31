@@ -1,0 +1,14 @@
+C:\Users\ROG\source\repos\ntwrkprgmm\ntwrkprgmm\bin\Debug\net6.0\ntwrkprgmm.exe
+C:\Users\ROG\source\repos\ntwrkprgmm\ntwrkprgmm\bin\Debug\net6.0\ntwrkprgmm.deps.json
+C:\Users\ROG\source\repos\ntwrkprgmm\ntwrkprgmm\bin\Debug\net6.0\ntwrkprgmm.runtimeconfig.json
+C:\Users\ROG\source\repos\ntwrkprgmm\ntwrkprgmm\bin\Debug\net6.0\ntwrkprgmm.dll
+C:\Users\ROG\source\repos\ntwrkprgmm\ntwrkprgmm\bin\Debug\net6.0\ntwrkprgmm.pdb
+C:\Users\ROG\source\repos\ntwrkprgmm\ntwrkprgmm\obj\Debug\net6.0\ntwrkprgmm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\source\repos\ntwrkprgmm\ntwrkprgmm\obj\Debug\net6.0\ntwrkprgmm.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\ntwrkprgmm\ntwrkprgmm\obj\Debug\net6.0\ntwrkprgmm.AssemblyInfo.cs
+C:\Users\ROG\source\repos\ntwrkprgmm\ntwrkprgmm\obj\Debug\net6.0\ntwrkprgmm.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\ntwrkprgmm\ntwrkprgmm\obj\Debug\net6.0\ntwrkprgmm.dll
+C:\Users\ROG\source\repos\ntwrkprgmm\ntwrkprgmm\obj\Debug\net6.0\refint\ntwrkprgmm.dll
+C:\Users\ROG\source\repos\ntwrkprgmm\ntwrkprgmm\obj\Debug\net6.0\ntwrkprgmm.pdb
+C:\Users\ROG\source\repos\ntwrkprgmm\ntwrkprgmm\obj\Debug\net6.0\ntwrkprgmm.genruntimeconfig.cache
+C:\Users\ROG\source\repos\ntwrkprgmm\ntwrkprgmm\obj\Debug\net6.0\ref\ntwrkprgmm.dll

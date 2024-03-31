@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Login Form</title>
+</head>
+<body>
+
+<form id="loginForm">
+  <label for="name">Name:</label><br>
+  <input type="text" id="name" name="name"><br>
+  <label for="surname">Surname:</label><br>
+  <input type="text" id="surname" name="surname"><br><br>
+  <button type="button" onclick="send()">Login</button>
+</form>
+
+<script>
+function send() {
+  var name = document.getElementById("name").value;
+  var surname = document.getElementById("surname").value;
+  
+  // Query string oluşturma
+  var queryString = "?name=" + encodeURIComponent(name) + "&surname=" + encodeURIComponent(surname);
+  
+
+  var xhttp = new XMLHttpRequest();
+
+  xhttp.open("GET", "http://127.0.0.1:27001/" + queryString, true);
+  xhttp.send();
+}
+</script>
+
+</body>
+</html>
